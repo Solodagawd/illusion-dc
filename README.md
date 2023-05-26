@@ -1,7 +1,7 @@
 # illusion-dc
 Open sourced due to shutdown, All customers refunded. Use this program how ever you want Idc. 
 
-#api responses
+# api responses
 
 Login/Heartbeat response example:
 
